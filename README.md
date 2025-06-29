@@ -1,51 +1,61 @@
-# 👋 Hi! I'm YourName 👨‍💻 💡💻 أهلاً أنا اسمك
+# 👋 Hi! I'm Noor Jaber 👨‍💻
 
 <p align="center">
-  <img src="put-your-image-link-here" alt="banner" width="100%">
+  <img src="https://cdn.jsdelivr.net/gh/Mohammed-Saeed111/Mohammed-Saeed111/assets/archipics-banner.png" alt="banner" width="100%" />
 </p>
+
+---
 
 ## 🌱 About Me
 
-I'm a passionate developer who loves learning new things in programming.  
-I have significant experience in both **Front-End** and **Back-End** development, and I continually improve my skills by learning new technologies.
+Enthusiastic MERN stack developer and hardworking second-year college student.  
+Committed to continuous learning in the ever-evolving field of technology and eager to apply my skills in real-world projects.
 
 ---
 
 ## 🛠️ Technologies I Work With
 
 ### Front-End:
-- HTML5 | CSS3 | JavaScript | React.js | Next.js  
-- Bootstrap | Sass | Material UI
+- HTML5 | CSS3 | JavaScript | React.js  
+- Bootstrap | Material UI
 
 ### Back-End:
-- Node.js | Express.js | MongoDB | GraphQL  
-- JWT | Passport.js | REST APIs
+- Node.js | Express.js | MongoDB  
+- JWT | REST APIs
 
 ### Other Tools:
-- Git | GitHub | Docker | Figma
+- Git | GitHub | Axios | Project Deployment (Vercel, Netlify) | Postman
 
 ---
 
 ## 💻 Languages and Tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,graphql,jwt,docker,figma,git,github,sass,mysql,python,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,vercel,netlify,postman,git,github,materialui" />
 </p>
 
 ---
 
-## 📌 How to Contact Me
+## 🧠 Soft Skills
 
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- **Email**: your.email@example.com  
-- **Phone**: +123456789  
-- **WhatsApp**: +123456789
+- Collaboration  
+- Time Management  
+- Continuous Learning  
+- Creativity  
+- Working Under Pressure  
+
+---
+
+## 📌 Contact Me
+
+- 📧 **Email**: noor.jaber.social@example.com  
+- 📱 **Phone / WhatsApp**: 0594214707
 
 ---
 
 ## 🌍 My GitHub Projects
 
-- 🔗 [GitHub Repositories](https://github.com/YourUsername?tab=repositories)
+🔗 [GitHub Repositories](https://github.com/YourUsername?tab=repositories)
 
 ---
 
@@ -55,4 +65,4 @@ If you're interested in contributing to any of my projects or have an idea for a
 
 ---
 
-Thanks for visiting my profile! 🌟
+**Thanks for visiting my profile! 🌟**
