@@ -1,7 +1,7 @@
 # 👋 Hi! I'm Noor Jaber 👨‍💻
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Mohammed-Saeed111/Mohammed-Saeed111/assets/archipics-banner.png" alt="banner" width="100%" />
+  <img src="https://clarusway.com/wp-content/uploads/2023/07/Top-Full-Stack-Developer-Skills.jpg" alt="Full Stack Developer Banner" width="100%" />
 </p>
 
 ---
